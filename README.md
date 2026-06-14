@@ -32,6 +32,16 @@
 - 🚀 &nbsp; Cada projeto é uma chance de resolver um problema real com elegância
 
 ---
+## 🏆 Projetos em Destaque
+
+| Projeto | Stack | Descrição |
+|:---|:---:|:---|
+| 🚦 **[SmartFlow](https://github.com/FelipeR01/SmartFlow)** | `HTML` `CSS` `JS` | Sistema para gestão de mobilidade urbana — Global Solution FIAP |
+| 🍔 **[Foodmap](https://github.com/FelipeR01/Foodmap)** | `Front-end` | App interativo com foco em usabilidade e validações rigorosas |
+| 🎬 **[Telanix](https://github.com/FelipeR01/telanix)** | `JS` `API` | Catálogo de filmes com integração de API externa |
+| ✈️ **[Jornada Viagem](https://github.com/FelipeR01/Jornada-Viagem)** | `UI/UX` | Roteirização de viagens com design totalmente responsivo |
+
+---
 
 ## ⚡ Stack
 
@@ -59,14 +69,6 @@
 
 ---
 
-## 🏆 Projetos em Destaque
-
-| Projeto | Stack | Descrição |
-|:---|:---:|:---|
-| 🚦 **[SmartFlow](https://github.com/FelipeR01/SmartFlow)** | `HTML` `CSS` `JS` | Sistema para gestão de mobilidade urbana — Global Solution FIAP |
-| 🍔 **[Foodmap](https://github.com/FelipeR01/Foodmap)** | `Front-end` | App interativo com foco em usabilidade e validações rigorosas |
-| 🎬 **[Telanix](https://github.com/FelipeR01/telanix)** | `JS` `API` | Catálogo de filmes com integração de API externa |
-| ✈️ **[Jornada Viagem](https://github.com/FelipeR01/Jornada-Viagem)** | `UI/UX` | Roteirização de viagens com design totalmente responsivo |
 
 <br>
 
